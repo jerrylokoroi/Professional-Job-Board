@@ -1,0 +1,106 @@
+{
+  "featuredJobs": [
+    {
+      "id": 1,
+      "title": "Backend Developer",
+      "company": "CodeCrafters Inc.",
+      "location": "Austin, TX",
+      "description": "CodeCrafters Inc. is seeking a skilled Backend Developer to join our dynamic team...",
+      "skills": ["Python", "Django", "PostgreSQL", "REST API"],
+      "postedDate": "2023-11-08",
+      "apply_url": "https://example.com/apply/backend-developer"
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Developer",
+      "company": "AppWorks",
+      "location": "San Francisco, CA",
+      "description": "AppWorks is looking for an experienced Mobile App Developer to create innovative mobile applications...",
+      "skills": ["Swift", "iOS SDK", "Android SDK", "React Native"],
+      "postedDate": "2023-11-09",
+      "apply_url": "https://example.com/apply/mobile-app-developer"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "Data Insights Co.",
+      "location": "New York, NY",
+      "description": "Data Insights Co. is hiring a talented Data Scientist to analyze and interpret complex data sets...",
+      "skills": ["Python", "R", "Machine Learning", "SQL"],
+      "postedDate": "2023-11-10",
+      "apply_url": "https://example.com/apply/data-scientist"
+    },
+    {
+      "id": 4,
+      "title": "DevOps Engineer",
+      "company": "CloudTech Solutions",
+      "location": "Seattle, WA",
+      "description": "CloudTech Solutions is seeking a DevOps Engineer to manage and optimize our cloud infrastructure...",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+      "postedDate": "2023-11-11",
+      "apply_url": "https://example.com/apply/devops-engineer"
+    },
+    {
+      "id": 5,
+      "title": "Frontend UI/UX Designer",
+      "company": "Creative Web Studio",
+      "location": "Los Angeles, CA",
+      "description": "Creative Web Studio is looking for a Frontend UI/UX Designer to create visually appealing and user-friendly interfaces...",
+      "skills": ["HTML", "CSS", "JavaScript", "UI/UX Design"],
+      "postedDate": "2023-11-12",
+      "apply_url": "https://example.com/apply/frontend-designer"
+    },
+    {
+      "id": 6,
+      "title": "Software Development Manager",
+      "company": "Tech Innovators",
+      "location": "Boston, MA",
+      "description": "Tech Innovators is hiring a Software Development Manager to lead and mentor our development team...",
+      "skills": ["Java", "Spring Boot", "Team Leadership", "Agile"],
+      "postedDate": "2023-11-13",
+      "apply_url": "https://example.com/apply/software-development-manager"
+    },
+    {
+      "id": 7,
+      "title": "Cybersecurity Analyst",
+      "company": "SecureTech Solutions",
+      "location": "Washington, D.C.",
+      "description": "SecureTech Solutions is seeking a Cybersecurity Analyst to protect our systems and networks from cyber threats...",
+      "skills": ["Cybersecurity", "Firewalls", "Intrusion Detection", "Security Audits"],
+      "postedDate": "2023-11-14",
+      "apply_url": "https://example.com/apply/cybersecurity-analyst"
+    },
+    {
+      "id": 8,
+      "title": "Full Stack Engineer",
+      "company": "Web Wizards Inc.",
+      "location": "Chicago, IL",
+      "description": "Web Wizards Inc. is looking for a Full Stack Engineer to develop and maintain our web applications...",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "postedDate": "2023-11-15",
+      "apply_url": "https://example.com/apply/full-stack-engineer"
+    },
+    {
+      "id": 9,
+      "title": "AI/Machine Learning Engineer",
+      "company": "Intelligent Systems Co.",
+      "location": "San Jose, CA",
+      "description": "Intelligent Systems Co. is seeking an AI/Machine Learning Engineer to develop cutting-edge AI solutions...",
+      "skills": ["Python", "TensorFlow", "Deep Learning", "Natural Language Processing"],
+      "postedDate": "2023-11-16",
+      "apply_url": "https://example.com/apply/ai-ml-engineer"
+    },
+    {
+      "id": 10,
+      "title": "Database Administrator",
+      "company": "Data Solutions Group",
+      "location": "Dallas, TX",
+      "description": "Data Solutions Group is hiring a Database Administrator to manage and optimize our database systems...",
+      "skills": ["SQL", "Database Management", "Performance Tuning", "Backup and Recovery"],
+      "postedDate": "2023-11-17",
+      "apply_url": "https://example.com/apply/database-administrator"
+    }
+  ]
+}
+
+  
