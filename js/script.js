@@ -4,13 +4,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchForm = document.querySelector('form');
 
     let jobsData = [];
-
+ 
     // Fetch JSON data from external file
     fetch('./json/jobs-data.json')
         .then(response => response.json())
         .then(data => {
             jobsData = data.featuredJobs;
-            displayJobs(jobsData);
+            displayJobs(jobsData);  
         })
         .catch(error => console.error('Error fetching data:', error));
 
